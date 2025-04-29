@@ -66,7 +66,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>Sentiment Analysis Web App</h1>
+      <h1>Sentiment Analysis Web App by nouhaila & lamya & salma & othmane</h1>
 
       {['imdb', 'yelp', 'amazon', 'merged'].map(platform => (
         <div key={platform} className="card">
